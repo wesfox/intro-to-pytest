@@ -33,4 +33,4 @@ explain how each example is working; PyTest normally captures and hides this out
 
 ----
 
-Start opening the 00_empty_test.py, all files starts with more or less explication on the new concept there are showing.
+Start opening the `00_empty_test.py`, all files starts with more or less explication on the new concept there are showing.
